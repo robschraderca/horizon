@@ -1,0 +1,10 @@
+<svg width="180" height="40" viewBox="0 0 180 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Compact Icon -->
+  <circle cx="20" cy="20" r="16" stroke="#001C3D" stroke-width="1.5" fill="none"/>
+  <path d="M12 20 L20 12 L28 20 M20 12 L20 28" stroke="#C9A961" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="20" cy="20" r="2" fill="#C9A961"/>
+  
+  <!-- Text - Horizontal -->
+  <text x="45" y="16" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#001C3D">HORIZON</text>
+  <text x="45" y="28" font-family="Helvetica, Arial, sans-serif" font-size="8" font-weight="400" fill="#424242" letter-spacing="0.5">FINANCIAL</text>
+</svg>

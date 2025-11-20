@@ -1,0 +1,10 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle -->
+  <circle cx="25" cy="25" r="20" stroke="#001C3D" stroke-width="2" fill="none"/>
+  
+  <!-- Horizon Symbol -->
+  <path d="M13 25 L25 13 L37 25 M25 13 L25 37" stroke="#C9A961" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Center dot -->
+  <circle cx="25" cy="25" r="2.5" fill="#C9A961"/>
+</svg>
